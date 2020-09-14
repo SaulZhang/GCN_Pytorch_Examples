@@ -2,6 +2,7 @@
 .. currentmodule:: dgl
 
 DGL at a Glance
+from :https://docs.dgl.ai/tutorials/basics/1_first.html#step-5-train-then-visualize
 =========================
 
 **Author**: `Minjie Wang <https://jermainewang.github.io/>`_, Quan Gan, `Jake
